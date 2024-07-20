@@ -30,14 +30,6 @@ The Travel Booking System is engineered to provide a robust platform for booking
 - **Schema**: Consists of tables for customers, bookings, and travel packages. Designed to support efficient queries and updates.
 - **Security**: Utilizes best practices for data security, including encrypted connections and secure access controls.
 
-## Installation
-
-### Prerequisites
-
-- Java JDK 11 or later
-- MySQL
-- Node.js and npm
-
 ### Setup
 
 #### Clone the repository and navigate to the project directory:
